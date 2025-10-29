@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/Satyam0202/python_game/assets/banner.png" alt="Python Game Banner" width="100%" />
+  <img src="https://github.com/Satyam0202/python_game/main.png" alt="Python Game Banner" width="100%" />
 </p>
 
 <h1 align="center">🎮 Python Game - Student Playground</h1>
