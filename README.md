@@ -1,7 +1,23 @@
-# 🎮 Python Game - Student Playground
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://github.com/Satyam0202/python_game/assets/banner.png" alt="Python Game Banner" width="100%" />
+</p>
 
-A fun and multi-functional Python desktop app built with **Tkinter**.  
-This project combines mini-games, study tools, and small utilities into one interactive dashboard.
+<h1 align="center">🎮 Python Game - Student Playground</h1>
+
+<p align="center">
+  <b>A fun and multi-functional Python desktop app built with Tkinter.</b><br>
+  Combining mini-games, study tools, and small utilities into one interactive dashboard.
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white" alt="Made with Python">
+  <img src="https://img.shields.io/github/stars/Satyam0202/python_game?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/Satyam0202/python_game?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue" alt="Platform">
+  <img src="https://img.shields.io/badge/License-Free-green" alt="License">
+</p>
 
 ---
 
